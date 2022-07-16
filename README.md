@@ -37,7 +37,10 @@
 <img align="left" alt="C++" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGhQt3PRZW7nctMw-UH77Un9Uy2rb_ChvX-iMsqQLg&s=36" style="padding-right:10px;" />
 <p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-###Connect with Me :
+<br />
+<br />
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imamsbk94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imamsbk94" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imam.subakir@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imam.subakir@gmail.com" height="30" width="40" /></a>
