@@ -40,9 +40,9 @@
 <br />
 <br />
 
-<h3 align="left">Connect with me:</h3>
+###Connect with me :
+---
 <p align="left">
 <a href="https://twitter.com/imamsbk94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imamsbk94" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/imam.subakir@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imam.subakir@gmail.com" height="30" width="40" /></a>
 <a href="https://instagram.com/constraint_fk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="constraint_fk_" height="30" width="40" /></a>
 </p>
