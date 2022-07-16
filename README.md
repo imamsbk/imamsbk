@@ -29,10 +29,11 @@
    - Mechanics Assistant 
    - Responsible For Check And Repair Bogie Locomotive 
    - Cleaning Bogie From Dirt And Other Mess 
+
 <br />
-<br />
----
+
 ### Languages and Tools:
+
 
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSufA5E80QX_S3HPg5tG1PPqduCDYu5BegYiGDJb7Y4A&s" style="padding-right:10px;" />
@@ -41,8 +42,7 @@
 <br />
 <br />
 
----
-### Connect with me:
+### Connect with Me:
 <p align="left">
 <a href="https://twitter.com/imamsbk94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imamsbk94" height="30" width="40" /></a>
 <a href="https://instagram.com/constraint_fk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="constraint_fk_" height="30" width="40" /></a>
