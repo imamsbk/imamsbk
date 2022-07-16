@@ -29,7 +29,9 @@
    - Mechanics Assistant 
    - Responsible For Check And Repair Bogie Locomotive 
    - Cleaning Bogie From Dirt And Other Mess 
-
+<br />
+<br />
+---
 ### Languages and Tools:
 
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
