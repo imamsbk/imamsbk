@@ -32,6 +32,7 @@
 ---
 ### Languages and Tools:
 
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Java" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSufA5E80QX_S3HPg5tG1PPqduCDYu5BegYiGDJb7Y4A&s" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="C++" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGhQt3PRZW7nctMw-UH77Un9Uy2rb_ChvX-iMsqQLg&s=36" style="padding-right:10px;" />][webdev]
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSufA5E80QX_S3HPg5tG1PPqduCDYu5BegYiGDJb7Y4A&s" style="padding-right:10px;" />
+<img align="left" alt="C++" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGhQt3PRZW7nctMw-UH77Un9Uy2rb_ChvX-iMsqQLg&s=36" style="padding-right:10px;" />
+
