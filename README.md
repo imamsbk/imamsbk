@@ -25,7 +25,7 @@
    - Percussion Instrument Teacher
    - Ballyra Assistant
 
-#### 3. [PT.KAI Daop 7 Madiun](https://www.kai.id/) | Student Intern | Madiun `2018-2019`
+#### 3. [PT.KAI (Dipo Lokomotif Madiun)](https://www.kai.id/) | Student Intern | Madiun `2018-2019`
    - Mechanics Assistant 
    - Responsible For Check And Repair Bogie Locomotive 
    - Cleaning Bogie From Dirt And Other Mess 
@@ -38,6 +38,7 @@
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSufA5E80QX_S3HPg5tG1PPqduCDYu5BegYiGDJb7Y4A&s" style="padding-right:10px;" />
 <img align="left" alt="C++" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGhQt3PRZW7nctMw-UH77Un9Uy2rb_ChvX-iMsqQLg&s=36" style="padding-right:10px;" />
+<p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 
 <br />
 <br />
@@ -46,4 +47,6 @@
 <p align="left">
 <a href="https://twitter.com/imamsbk94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imamsbk94" height="30" width="40" /></a>
 <a href="https://instagram.com/constraint_fk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="constraint_fk_" height="30" width="40" /></a>
+<A href="https://www.linkedin.com/in/imam-subakir-397233245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imamsubakir" height="30" width="40" /></a>
+</p>
 </p>
